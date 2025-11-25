@@ -15,7 +15,7 @@ This project is a cross-platform desktop application built with Electron that ac
 
 - **Live transcription and AI integration**  
   - Continuous transcription of the conversation.  
-  - Sends the *final* transcript segment to an AI agent after a configurable delay (e.g. 2.5–10 seconds) to avoid partial or noisy prompts.[attached_file:21]  
+  - Sends the *final* transcript segment to an AI agent after a configurable delay (e.g. 2.5–10 seconds) to avoid partial or noisy prompts.
   - Language setting defines both transcription language and AI response language.
 
 - **Interview-focused configuration**  
@@ -26,11 +26,11 @@ This project is a cross-platform desktop application built with Electron that ac
   - Global hotkeys:  
     - `CmdOrCtrl + Shift + Space` — Show/Hide the application window.  
     - `CmdOrCtrl + Shift + L` — Start/Stop listening.  
-    - `CmdOrCtrl + ("+" | "-" | "0")` — Zoom controls for accessibility.[attached_file:21]
+    - `CmdOrCtrl + ("+" | "-" | "0")` — Zoom controls for accessibility.
 
 - **Account, sync, and privacy**  
   - Login / sign-up flow to sync configuration and conversations across devices.  
-  - Conversations are encrypted before being stored and synced, prioritizing user privacy and data security.[attached_file:21]  
+  - Conversations are encrypted before being stored and synced, prioritizing user privacy and data security.
 
 ## Use Cases
 
@@ -41,3 +41,4 @@ This project is a cross-platform desktop application built with Electron that ac
 ## Status
 
 The project is under active development, experimenting with different AI providers and improving the quality of real-time audio capture, filtering, and interview-specific behaviors.
+
